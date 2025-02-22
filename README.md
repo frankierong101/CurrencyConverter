@@ -38,6 +38,8 @@ pip install requests python-dotenv
 python currencyConverter.py
 ```
 
+---
+---
 # EXTRA: Supported Currencies
 
 This project supports the following currencies:

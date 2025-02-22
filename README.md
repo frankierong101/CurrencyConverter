@@ -1,4 +1,4 @@
-#CurrencyConverter
+# CurrencyConverter
 
 This python script asks for an amount, the currency you want to convert from and to and then uses the current exchange rate via an API key to convert "x" currency into "y" currency of your choice.
 

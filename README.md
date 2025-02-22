@@ -4,7 +4,7 @@ This python script asks for an amount, the currency you want to convert from and
 
 Notes
 
-You'll need an API key in order to test and run this script. The easiest way is to go to " https://www.exchangerate-api.com/ " and you'll get a personal API key in less than 5 minutes, all it needs is your email.
+You'll need an API key in order to test and run this script. The easiest way is to go to https://www.exchangerate-api.com/ and you'll get a personal API key in less than 5 minutes, all it needs is your email.
 
 ## How to Use  
 
@@ -24,5 +24,5 @@ notepad .env
 
 ### 3. Run:
 ```sh
-pyhon currencyConverter.py
+python currencyConverter.py
 ```

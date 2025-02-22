@@ -38,8 +38,8 @@ pip install requests python-dotenv
 python currencyConverter.py
 ```
 
-AED - United Arab Emirates Dirham
-AFN - Afghan Afghani
+AED - United Arab Emirates Dirham /n 
+AFN - Afghan Afghani \n
 ALL - Albanian Lek
 AMD - Armenian Dram
 ANG - Netherlands Antillean Guilder

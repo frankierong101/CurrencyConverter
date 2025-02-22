@@ -11,6 +11,8 @@ This Python script allows you to convert currencies using real-time exchange rat
 
 2. **API key**: You'll need an API key. The easiest way is to go to https://www.exchangerate-api.com/. Sign up with your email and you'll get a personal API key in less than 5 minutes
 
+---
+
 ## How to Use  
 
 ### 1. Clone the Repository  

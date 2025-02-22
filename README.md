@@ -21,12 +21,12 @@ git clone https://github.com/frankierong101/CurrencyConverter.git
 cd CurrencyConverter
 ```
 
-### 2. Run this below and paste "EXCHANGE_RATE_API_KEY=YOUR_API_KEY_HERE" into the contents of the .env file:
+### 2. Run this below and replace "YOUR_API_KEY_HERE" with your own API key obtained in prerequisites step 2 above:
 ```sh
 echo EXCHANGE_RATE_API_KEY=YOUR_API_KEY_HERE > .env
-notepad .env
+
 ```
-## 2.5 Run this below if you want to double check or change your inserted API key from step 2:
+### 2.5 Run this below if you want to double check or change your inserted API key from step 2:
 ```sh
 notepad .env
 ```
